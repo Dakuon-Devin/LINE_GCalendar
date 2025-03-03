@@ -1,0 +1,9 @@
+{
+  "token": "ya29.example-token-value",
+  "refresh_token": "1//example-refresh-token",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "client_id": "your-client-id.apps.googleusercontent.com",
+  "client_secret": "your-client-secret",
+  "scopes": ["https://www.googleapis.com/auth/calendar.readonly"],
+  "expiry": "2025-03-03T12:00:00.000000Z"
+}
