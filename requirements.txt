@@ -1,0 +1,14 @@
+# Google Calendar API
+google-api-python-client==2.118.0
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.1.0
+
+# HTTP通信用（LINE Messaging API用）
+requests==2.31.0
+
+# スケジューリング
+apscheduler==3.10.4
+
+# ユーティリティ
+python-dotenv==1.0.0
+pytz==2023.3
