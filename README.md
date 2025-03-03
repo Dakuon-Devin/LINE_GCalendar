@@ -36,7 +36,7 @@ source .venv/bin/activate  # Linuxの場合
 3. 依存パッケージをインストール
 
 ```bash
-uv pip install -r requirements.txt
+uv pip install -e .
 ```
 
 ### 設定
